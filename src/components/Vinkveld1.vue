@@ -7,7 +7,7 @@
     <p class="my-2">Første (offisielle) vinkveld. Dette er noe vi har prøvd å få til lenge, og endelig er vi der! Vi blir enig om å ta med noen delvis tilfeldige viner som vi ønsker å dele. Enkelt og greit. Ta med en hver til blindsmaking var det eneste kravet. En deltager hadde kun med seg øl.</p>
     <p class="mb-4">Vi smaker viner svært uhøytidlig, og ingen analyser eller forslag er for dumme til å nevnes. Det var mer fokus på smaking enn å notere... Vinene fra kvelden finner du uansett under. Deltakere er Johannes, Torkild og Daniel.</p>
     <VinInfo
-      imgSrc="/Volumes/code/githubio/src/assets/images/ilmimo2023.png"
+      imgSrc="/dist/ilmimo2023.png"
       name="Il Mimo 2023"
       artikkelNr="17060601"
       price="216"
@@ -15,7 +15,7 @@
       rating="Rating: Ingen karakter satt"
     >Startet enkelt med denne. Hadde stått en dag for lenge åpnet i kjøleskapet men var ok drikkendes.</VinInfo>
     <VinInfo
-      imgSrc="/Volumes/code/githubio/src/assets/images/sassara2022.png"
+      imgSrc="/dist/sassara2022.png"
       name="Sassara Esotico 2022"
       artikkel-nr="13055301"
       price="249.90"
@@ -27,7 +27,7 @@
             Garganega 10%"
     >Lukter snop!</VinInfo>
     <VinInfo
-      imgSrc="/Volumes/code/githubio/src/assets/images/filari2022.png"
+      imgSrc="/dist/filari2022.png"
       name="Brandini Filari Corti Langhe Nebbiolo 2022"
       artikkel-nr="12338501"
       price="269.90"
@@ -36,7 +36,7 @@
     >Daniel og Torkild blindsmaker. Lukt tilsier Pinot Noir med en gang, smaken gjør det vanskeligere. Vi går på en 20min lang historiereise fra Torkild gjennom Europa selv om han mener det er Italia som er fasit. Johannes tipser om fargen etterhvert. Får endelig med Torkild på et stopp i Piemonte og Nebbiolo blir nevnt.
       <p class="mt-1"><i>'Eg er ikkje så opptatt av druer'</i> - Torkild</p></VinInfo>
     <VinInfo
-      imgSrc="/Volumes/code/githubio/src/assets/images/mukuzani.png"
+      imgSrc="/dist/mukuzani.png"
       artikkel-nr="12527701"
       name="Gio's Marani Mukuzani"
       price="229.90"
@@ -45,7 +45,7 @@
     >Johannes og Torkild blindsmaker. Krydder og pepper blir fort nevt. Da Rhone blir utelukket finner de fort veien østover og til Georgia ganske kjapt. Nelliken får begge snerten av men da druen er veldig ukjent og i overkant vanskelig å gjette.
       <p class="mt-1"><i>'Trege tanniner fra fjøs'</i> - Torkild</p></VinInfo>
     <VinInfo
-      imgSrc="/Volumes/code/githubio/src/assets/images/capanna2020.png"
+      imgSrc="/dist/capanna2020.png"
       artikkel-nr="15666301"
       name="Capanna Rosso di Montalcino 2020"
       price="289.70"
@@ -54,7 +54,7 @@
     >Enstemmig om at dette er en kjempevin. En lang vin med masse røde bær. Mye vin for pengene
       <p class="mt-1"><i>'Eg kjenner jordsmonnet '</i> - Torkild</p></VinInfo>
     <VinInfo
-      imgSrc="/Volumes/code/githubio/src/assets/images/chanin2021.png"
+      imgSrc="/dist/chanin2021.png"
       artikkel-nr="15834701"
       name="Chanin Zotovich Vineyard Pinot Noir 2021"
       price="651.30"
@@ -67,7 +67,7 @@
   <div class="mx-auto max-w-2xl text-center mb-4">
     <p class="my-10">Veien tok turen ned i garasjen for en runde dart og roting i vinskapet. Der blei det ein bonusvin.</p>
     <VinInfo
-      imgSrc="/Volumes/code/githubio/src/assets/images/ghemme2006.png"
+      imgSrc="/dist/ghemme2006.png"
       artikkel-nr="12427001"
       name="Ioppa Ghemme 2006"
       price="379.90"
