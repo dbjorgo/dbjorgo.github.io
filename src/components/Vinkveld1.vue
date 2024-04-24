@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto max-w-2xl text-center mt-6">
-    <img src="/Volumes/code/githubio/src/assets/images/vinoversikt1.jpg" />
+    <img src="/vinoversikt1.jpg" />
     <p class="text-amber-700 uppercase font-bold mt-2">Vinkveld #1</p>
     <p class="text-2xl">Ta med noe du vil dele</p>
     <p class="text-gray-500">22. februar 2024</p>
@@ -63,7 +63,7 @@
     >Kveldens høydepunkt! Mange forskjellige smaker som sikkert blei nevnt her.
       <p class="mt-1"><i>'Forfina båtlukt '</i> - Johannes</p></VinInfo>
   </div>
-  <img src="/Volumes/code/githubio/src/assets/images/johannesOgTorkild.png" />
+  <img src="/johannesOgTorkild.png" />
   <div class="mx-auto max-w-2xl text-center mb-4">
     <p class="my-10">Veien tok turen ned i garasjen for en runde dart og roting i vinskapet. Der blei det ein bonusvin.</p>
     <VinInfo
@@ -76,7 +76,7 @@
                 Nebbiolo 80%"
     >Ferdig utvikla. Klar mursteinfarge. Lær og tjære.
     </VinInfo>
-    <img src="/Volumes/code/githubio/src/assets/images/ghemmekaraffel.png" />
+    <img src="/ghemmekaraffel.png" />
   </div>
 </template>
 <script>
