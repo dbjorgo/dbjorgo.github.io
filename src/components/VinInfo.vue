@@ -22,7 +22,7 @@ export default {
       default: 'Navn'
     },
     artikkelNr: {
-      type: Number,
+      type: String,
       default: 999
     },
     price: {
