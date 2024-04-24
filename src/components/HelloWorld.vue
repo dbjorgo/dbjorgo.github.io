@@ -49,7 +49,7 @@
 
     <div class="relative isolate px-6 pt-14 lg:px-8">
       <div class="absolute inset-x-0 -top-0 lg:-top-40 -z-10 transform-gpu overflow-hidden sm:-top-80 blur lg:blur-0 " aria-hidden="true">
-        <img src="/Volumes/code/githubio/src/assets/images/winestain.jpg" />
+        <img src="/winestain.jpg" />
       </div>
       <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
         <div class="text-center">
