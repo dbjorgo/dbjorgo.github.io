@@ -1,8 +1,10 @@
 <script>
 import { RouterView } from 'vue-router';
+import Layout from "./components/Layout.vue";
 
 export default {
   components: {
+    Layout,
     RouterView,
   }
 }

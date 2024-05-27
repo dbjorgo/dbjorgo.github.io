@@ -6,7 +6,7 @@
       <p class="text-gray-600">{{price}},-</p>
       <p class="mb-3">{{grape}}</p>
       <slot />
-      <p class="mt-3">{{rating}}</p>
+      <p class="mt-3" v-if="rating">{{rating}}</p>
     </div>
   </div>
 </template>
@@ -39,7 +39,9 @@ export default {
     },
     rating: {
       type: String,
-      default: '100'
+    },
+    vinkveld: {
+      type: Object,
     },
 
   }
