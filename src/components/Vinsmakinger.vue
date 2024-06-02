@@ -69,6 +69,7 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
 import Vinkveld1 from "./Vinkveld1.vue";
 import Vinkveld2 from "./Vinkveld2.vue";
 import Vinkveld3 from "./Vinkveld3.vue";
+import Vinkveld4 from "./Vinkveld4.vue";
 
 const completeButtonRef = ref(null)
 
@@ -83,6 +84,7 @@ const vinkvelder = [
   { number: 1, component: Vinkveld1 },
   { number: 2, component: Vinkveld2 },
   { number: 3, component: Vinkveld3 },
+  { number: 4, component: Vinkveld4 },
 ]
 
 const selectedVinkveld = shallowRef(vinkvelder[0]);
