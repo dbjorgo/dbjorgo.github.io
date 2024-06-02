@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto max-w-2xl text-center mt-6">
-    <img src="/oversikt4.jpg" />
+    <img src="/oversikt41.jpeg" />
     <p class="text-amber-700 uppercase font-bold mt-2">Vinkveld #4</p>
     <p class="text-2xl">Vi tar en Spansk en!</p>
     <p class="text-gray-500">31. mai 2024</p>
