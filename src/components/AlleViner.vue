@@ -325,7 +325,61 @@ const vinoversikt = [
     price: 190,
     grape: "Weissburgunder 100%",
     rating: "J-85/D-85/Ø-85",
-  }
+  },
+  {
+    imgSrc: "/ebnerblackedition.png",
+    name: "Ebner-Ebenauer Black Edition Grüner Veltliner 2021",
+    artikkelNr: "15939601",
+    price: 510,
+    grape: "Grüner Veltliner 100%",
+    rating: "JO-89/D-91/Ø-91/JA-91",
+  },
+  {
+    imgSrc: "/burncottage.png",
+    name: "Burn Cottage Moonlight Race Pinot Noir 2021",
+    artikkelNr: "10696401",
+    price: 440,
+    grape: "Pinot noir 100%",
+    rating: "JO-91/D-88/Ø-90/JA-91",
+  },
+  {
+    imgSrc: "/meyer.png",
+    name: "Meyer McLean Creek Road Vineyard Pinot Noir 2022",
+    artikkelNr: "7377401",
+    price: 449,
+    grape: "Pinot noir 100%",
+    rating: "JO-91/D-88/Ø-88/JA-91",
+  },
+  {
+    imgSrc: "/simpsonspinot.png",
+    name: "Simpsons Rabbit Hole Pinot Noir 2022",
+    artikkelNr: "11430801",
+    price: 369,
+    grape: "Pinot noir 100%",
+    rating: "JO-90/D-88/Ø-89/JA-89",
+  },
+  {
+    imgSrc: "/chanin2021pinot.png",
+    name: "Chanin Sta. Rita Hills Pinot Noir 2021",
+    artikkelNr: "11039301",
+    price: 400,
+    grape: "Pinot Noir 100%",
+    rating: "JO-93/D-91/Ø-91/JA-92",
+  },
+  {
+    imgSrc: "/bousquet.png",
+    name: "Dom. Bousquet Reserve Pinot Noir",
+    artikkelNr: "16656701",
+    price: 220,
+    grape: "Pinot Noir 100%",
+  },
+  {
+    imgSrc: "/tibouren.png",
+    name: "Clos Cibonne Prestige Caroline Côtes de Provence Cru Classé Tibouren",
+    artikkelNr: "13764001",
+    price: 419,
+    grape: "Tibouren 90% Grenache 10%",
+  },
 ]
 
 const sortedWines = computed(() => {
