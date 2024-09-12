@@ -380,6 +380,55 @@ const vinoversikt = [
     price: 419,
     grape: "Tibouren 90% Grenache 10%",
   },
+  {
+    imgSrc: "/gatonegro.png",
+    name: "Gato Negro Cabernet Sauvignon 2022",
+    artikkelNr: "295301",
+    price: 110,
+    grape: "Cabernet Sauvignon 100%",
+  },
+  {
+    imgSrc: "/marcobartoli.png",
+    name: "Marco de Bartoli Grappoli Grillo Riserva 2022",
+    artikkelNr: "16539201",
+    price: 430,
+    grape: "Grillo 100%",
+  },
+  {
+    imgSrc: "/malvira2009.png",
+    name: "Malvirà Roero Riserva Trinità 2009",
+    artikkelNr: "5106801",
+    price: 475,
+    grape: "Nebbiolo 100%",
+  },
+  {
+    imgSrc: "/sassella.png",
+    name: "Arpepe Sassella Stella Retica Riserva 2019",
+    artikkelNr: "932901",
+    price: 500,
+    grape: "Nebbiolo 100%",
+  },
+  {
+    imgSrc: "/rivetto2017.png",
+    name: "Rivetto Barolo di Serralunga d'Alba 2017",
+    artikkelNr: "5856301",
+    price: 600,
+    grape: "Nebbiolo 100%",
+  },
+  {
+    imgSrc: "/settimo2017.png",
+    name: "Aurelio Settimo Barolo 2017",
+    artikkelNr: "5130201",
+    price: 500,
+    grape: "Nebbiolo 100%",
+  },
+  {
+    imgSrc: "/edelvernatsch.png",
+    name: "Kaltern Alto Adige Edelvernatsch 2023",
+    artikkelNr: "17434401",
+    price: 185,
+    grape: "Schiava 100%",
+  },
 ]
 
 const sortedWines = computed(() => {

@@ -25,7 +25,7 @@
         <div class="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
           <div class="flex items-center justify-between" >
             <a href="/" class="-m-1.5 p-1.5">
-              <span class="sr-only">Gatonegro</span>
+              <span class="sr-only">Winenot</span>
               <img class="h-8 w-auto" src=/wineHome.png alt="" />
             </a>
             <button type="button" class="-m-2.5 rounded-md p-2.5 text-gray-700" @click="mobileMenuOpen1 = false" >
@@ -71,6 +71,7 @@ import Vinkveld2 from "./Vinkveld2.vue";
 import Vinkveld3 from "./Vinkveld3.vue";
 import Vinkveld4 from "./Vinkveld4.vue";
 import Vinkveld5 from "./Vinkveld5.vue";
+import Vinkveld6 from "./Vinkveld6.vue";
 
 const completeButtonRef = ref(null)
 
@@ -87,6 +88,7 @@ const vinkvelder = [
   { number: 3, component: Vinkveld3 },
   { number: 4, component: Vinkveld4 },
   { number: 5, component: Vinkveld5 },
+  { number: 6, component: Vinkveld6 },
 ]
 
 const selectedVinkveld = shallowRef(vinkvelder[0]);
