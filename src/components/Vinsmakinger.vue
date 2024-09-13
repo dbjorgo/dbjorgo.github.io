@@ -4,7 +4,7 @@
       <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
         <div class="flex lg:flex-1">
           <router-link to="/" class="-m-1.5 p-1.5">
-            <span class="sr-only">Gatonegro</span>
+            <span class="sr-only">ASd</span>
             <img class="h-8 w-auto" src=/wineHome.png alt="" />
           </router-link>
         </div>
