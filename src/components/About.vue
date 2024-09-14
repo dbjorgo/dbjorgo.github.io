@@ -49,7 +49,7 @@
         <div class="mx-auto max-w-2xl text-center">
 <!--          <p class="text-base font-semibold leading-7 text-indigo-600">farget </p>-->
           <h2 class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Om oss</h2>
-          <p class="mt-6 text-lg leading-8 text-gray-600">En vennegjeng fra Halhjem som er litt over snittet interessert i vin.</p>
+          <p class="mt-6 text-lg leading-8 text-gray-600">En vennegjeng som er litt over snittet interessert i vin.</p>
           <p class="mt-6 text-lg leading-8 text-gray-600">Vi har tidligere hatt flere vinkvelder og fant på et tidspunkt ut at vi ville prøve å smake under litt mer organiserte forhold. Ørjan tok initiativet og startet banet vei.</p>
           <p class="mt-6 text-lg leading-8 text-gray-600">Kunnskapet kommer etterhvert, men vi har heldigvis Johannes på laget som har smakt og samlet på vin i åresvis som vi kan støtte oss på.</p>
         </div>
