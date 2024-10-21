@@ -72,6 +72,7 @@ import Vinkveld3 from "./Vinkveld3.vue";
 import Vinkveld4 from "./Vinkveld4.vue";
 import Vinkveld5 from "./Vinkveld5.vue";
 import Vinkveld6 from "./Vinkveld6.vue";
+import Vinkveld7 from "./Vinkveld7.vue";
 
 const completeButtonRef = ref(null)
 
@@ -89,6 +90,7 @@ const vinkvelder = [
   { number: 4, component: Vinkveld4 },
   { number: 5, component: Vinkveld5 },
   { number: 6, component: Vinkveld6 },
+  { number: 7, component: Vinkveld7 },
 ]
 
 const selectedVinkveld = shallowRef(vinkvelder[0]);

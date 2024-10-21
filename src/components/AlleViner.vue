@@ -429,6 +429,55 @@ const vinoversikt = [
     price: 185,
     grape: "Schiava 100%",
   },
+  {
+    imgSrc: "/gaja2021.png",
+    name: "Gaja Sito Moresco 2021",
+    artikkelNr: "16928901",
+    grape: "Barbera 50%, Nebbiolo 50%",
+    price: 580,
+  },
+  {
+    imgSrc: "/Selvapiana.png",
+    name: "Selvapiana Chianti Rufina 2022",
+    artikkelNr: "3316901",
+    grape: "Sangiovese 94%, Canaiolo 3%, Colorino 2%, Malvasia Nera 1%",
+    price: 218,
+  },
+  {
+    imgSrc: "/Buscemi2020.png",
+    name: "Buscemi Tartaraci 2020",
+    artikkelNr: "18625701",
+    grape: "Grenache, Nerello Mascalese",
+    price: 516,
+  },
+  {
+    imgSrc: "/Quintodecimo2021.png",
+    name: "Quintodecimo Aglianico Irpinia Terra d'Eclano",
+    artikkelNr: "15415101",
+    grape: "Aglianico 100%",
+    price: 650,
+  },
+  {
+    imgSrc: "/Chioccioli2021.png",
+    name: "Chioccioli Chianti Classico Fossivento 2021",
+    artikkelNr: "18626001",
+    grape: "Sangiovese 100%",
+    price: 362,
+  },
+  {
+    imgSrc: "/canova2021.png",
+    name: "Ca'Nova Barbaresco Montefico Bric Mentina 2021",
+    artikkelNr: "14930801",
+    price: 450,
+    grape: "Nebbiolo 100%",
+  },
+  {
+    imgSrc: "/rocheauxmoines2021.png",
+    name: "Dom. Moines Savennières Roche aux Moines 2021",
+    artikkelNr: "7300401",
+    price: 520,
+    grape: "Chenin Blanc 100%",
+  },
 ]
 
 const sortedWines = computed(() => {
