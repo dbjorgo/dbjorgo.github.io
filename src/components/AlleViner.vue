@@ -478,6 +478,48 @@ const vinoversikt = [
     price: 520,
     grape: "Chenin Blanc 100%",
   },
+  {
+    imgSrc: "/grace_koshu.png",
+    name: "Grace Koshu Misawa Vineyard 2021",
+    artikkelNr: "18643101",
+    price: 650,
+    grape: "Koshu 100%",
+  },
+  {
+    imgSrc: "/lancien2024.png",
+    name: "Jean-Paul Brun L'Ancien Beaujolais Nouveau 2024",
+    artikkelNr: "5804001",
+    price: 235,
+    grape: "Gamay 100%",
+  },
+  {
+    imgSrc: "/methimon.png",
+    name: "Dougos Meth'Imon L 2018",
+    artikkelNr: "12291901",
+    grape: "Limniona 100%",
+    price: 363,
+  },
+  {
+    imgSrc: "/magoutes2020.png",
+    name: "Magoutes Vineyard Xinomavro 2020",
+    artikkelNr: "17428601",
+    grape: "Xinomavro 100%",
+    price: 445,
+  },
+  {
+    imgSrc: "/alpamanta2013.png",
+    name: "Alpamanta Estate Malbec 2013",
+    artikkelNr: "15814001",
+    grape: "Malbec 100%",
+    price: 315,
+  },
+  {
+    imgSrc: "/kaiken2022.png",
+    name: "Kaiken Ultra Pinot Noir 2022",
+    artikkelNr: "14209901",
+    grape: "Pinot noir 100%",
+    price: 240,
+  },
 ]
 
 const sortedWines = computed(() => {
